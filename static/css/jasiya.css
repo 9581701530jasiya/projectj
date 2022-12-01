@@ -1,0 +1,19 @@
+h1 {
+    background-color: brown;
+    color: aqua;
+    text-align: center;
+
+}
+
+p {
+    background-color: linear-gradient(yellow, orange, green, skyblue);
+}
+
+#aa {
+    display: block;
+    background-color: coral;
+}
+
+img {
+    box-shadow: 0 0 20px;
+}
